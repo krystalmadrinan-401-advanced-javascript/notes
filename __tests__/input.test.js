@@ -20,7 +20,7 @@ const badInputB = ['wrong input'];
 const badInputC = ['-e', 'string'];
 
 // Data is not a string note: number works and gets turned into string
-const badInputD = ['-a', 'true'];
+const badInputD = ['-a', ''];
 
 
 // GOOD INPUT:
